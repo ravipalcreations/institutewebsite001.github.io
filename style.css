@@ -1,0 +1,623 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Montserrat', sans-serif;
+
+    font-family: 'Raleway', sans-serif;
+
+    font-family: 'Ubuntu', sans-serif;
+
+
+}
+body{
+    margin: 0%;
+    padding: 0%;
+    background-image: url("ravipalcreations001.png");
+    
+   
+}
+.logoword{
+    color: whitesmoke !important;
+    font-size: 30px;
+    /* text-align: center; */
+    /* float: right; */
+    padding-left: 2px;
+}
+
+/* .first{
+    height: 1500px;
+} */
+.uu{
+    /* float: right; */
+    font-size: 50px;
+    margin-top: 30px;
+    color: white !important;
+    text-align: center;
+}
+.vv{
+    font-size: 22px;
+    /* color: rgb(2, 2, 2)10, 110) !important; */
+    color: white;
+    text-align: center;
+}
+.navu{
+    /* overflow-y: visible; */
+    background-color: transparent !important;
+
+}
+.sub{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.colo{
+    background-color: lightseagreen;
+}
+.conatainer{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.secound{
+    margin-top: 40px;
+}
+.toto{
+    margin-top: 40px;
+}
+.card2-img{
+    height: 100vh;
+    border-radius: 30px;
+}
+.ii{
+    height: 35vh;
+    /* border-radius: 30px; */
+    /* width: 30vh; */
+}
+.card-img, .card-img-top {
+    border-top-left-radius: calc(3.25rem- 1px);
+    border-top-right-radius: calc(3.25rem- 1px);
+}
+.popo{
+    height: 80vh;
+}
+.lolo{
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+.arrow{
+    background-color: black;
+    color: black;
+    border-radius: 15px;
+    width: 100%;
+    height: 5rem;
+}
+h1,h5,p{
+    /* margin-left: -50rem; */
+    color: white !important;
+}
+h1{
+    font-size: 80px;
+}
+.hac{
+    text-decoration: none;
+    color:tomato;
+
+}
+.hac:hover{
+    color: white !important;
+    background-color: white;
+    border-radius: 20px;
+}
+a{
+    color: black !important;
+}
+.trans{
+    background-color: transparent;
+}
+.jj{
+    color: black !important;
+}
+.ycc{
+    margin-top: 100px;
+    cursor: pointer;
+    /* color: black; */
+}
+/* .hill{
+    height: 150px;
+} */
+.owl-carousel .owl-item img {
+    display: block;
+    width: 100%;
+    height: 145px;
+
+}
+
+.offcb{
+    background-color: whitesmoke;
+}
+hr{
+    color: black !important;
+}
+.baba{
+  background-color: black;
+}
+.haha{
+    height: 280px;
+    padding: 10px;
+  
+
+}
+.haha{
+   
+    border-bottom-left-radius: 35px !important;
+    border-bottom-right-radius: 35px !important;
+    
+}
+.secowl{
+    margin-top: 40px;
+    text-align: center;
+    /* text-shadow: 3px 3px 3px grey; */
+    font-size: 20px;
+
+}
+label{
+    /* border: 1px solid black; */
+    border-radius: 20px;
+    background-color: lightseagreen;
+    width: 100%;
+    color: white;
+
+}
+
+
+/* dfjhergkjgteg */
+
+
+.lololo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+    width: 80vw;
+    margin: 0 auto;
+    min-height: 40vh;
+    box-shadow: none;
+  }
+  .btoon {
+    flex: 1 1 auto;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    /* margin-bottom: 30px; */
+   
+    /* box-shadow: 0 0 20px #eee; */
+    border-radius: 8px;
+    display: 100%;
+    width: 100%;
+   }
+  
+  /* Demo Stuff End -> */
+  
+  /* <- Magic Stuff Start */
+  
+  .btn:hover {
+    background-position: right center; /* change the direction of the change here */
+  }
+  
+  .btn-1 {
+    background-image: linear-gradient(to right, #f6d365 0%, #fda085 51%, #f6d365 100%);
+  }
+  
+  .btn-2 {
+    background-image: linear-gradient(to right, #fbc2eb 0%, #a6c1ee 51%, #fbc2eb 100%);
+  }
+  
+  .btn-3 {
+    background-image: linear-gradient(to right, #84fab0 0%, #8fd3f4 51%, #84fab0 100%);
+  }
+  
+  .btn-4 {
+    background-image: linear-gradient(to right, #a1c4fd 0%, #c2e9fb 51%, #a1c4fd 100%);
+  }
+  
+  .btn-5 {
+    background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 51%, #ffecd2 100%);
+}
+.haha:hover{
+    box-shadow: 3px 3px 10px skyblue;
+    transition-duration: calc(0.3s);
+    /* transition-duration: inherit; */
+    transform: translateX(3px,4px);
+}
+.navpos{
+    background-color: transparent !important;
+    position: inherit;
+    text-align: center;
+    font-size: 20px;
+    /* height: 800px; */
+    /* background-color: yellow !important; */
+
+}
+.navside{
+    /* background: transparent !important; */
+    background-image:linear-gradient(#0F2027, #203A43, #2C5364) !important;
+    /* background-image: url("doodle001.png"); */
+    background-size: cover;
+    color: white !important;
+ 
+}
+
+
+.sidenavtext{
+    /* background-color: black; */
+    color: whitesmoke !important;
+}
+.close{
+    color: whitesmoke !important;
+}
+
+
+/* cssfortestimoniol------------------------------------------------------------------------ */
+
+.chaha{
+    /* background-color: royalblue; */
+    /* background-image: linear-gradient( #30e8bf, #ff8235); */
+    height: 500px;
+    background-size: contain;
+    width: 100%;
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
+    margin-top: -80px;
+    /* background-image: url("luke-chesser-CxBx_J3yp9g-unsplash.jpg"); */
+    /* background-size: cover; */
+    /* background-color:black; */
+    
+}
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    /* font-family: 'Poppins', sans-serif */
+}
+
+
+
+body::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    /* background: linear-gradient(#2d2dff, #ff2f2f); */
+    /* background-image: linear-gradient( #30e8bf, #ff8235); */
+   
+    /* clip-path: circle(25% at right) */
+}
+
+body::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    min-height: 100vh;
+    height: 100%;
+    /* background: linear-gradient(#870aec, #6e0b81); */
+    /* clip-path: circle(20% at 10% 10%) */
+}
+
+.container {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    position: relative;
+    z-index: 100;
+}
+
+.container .row .card {
+    width: 300px;
+    height: 300px;
+    margin: 30px;
+    background: rgba(255, 255, 255, 0.1);
+    overflow: hidden;
+    backdrop-filter: blur(5px);
+    border-top: 1px solid rgba(255, 255, 255, 0.5);
+    border-left: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.container .row .card .card-body {
+    padding: 1rem 1.2rem;
+    color: #fff
+}
+
+.container .row .card .card-body .card-img img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    transform: translateY(50px);
+    transition: 0.5s;
+    border-radius: 50%
+}
+
+.container .row .card .card-body .name {
+    transform: translateY(50px);
+    transition: 0.5s
+}
+
+.container .row .card .card-body .testimonial {
+    font-size: 0.9rem;
+    pointer-events: none;
+    transform: translateY(10px);
+    transition: 0.5s;
+    opacity: 0
+}
+
+.container .row .card:hover .card-body .testimonial,
+.container .row .card:hover .card-body .name,
+.container .row .card:hover .card-body .card-img img {
+    transform: translateY(0px);
+    opacity: 1
+}
+
+@media(max-width: 991.5px) {
+    body::after {
+        clip-path: circle(40% at 10% 50%)
+    }
+
+    body::before {
+        clip-path: circle(50% at right -10%)
+    }
+}
+
+@media(max-width: 991.5px) {
+    .col-lg-4 {
+        margin-top: 40px;
+        margin-bottom: 20px
+    }
+}
+
+
+#win{
+    text-align: center;
+    font-size: 60px;
+    color: white;
+}
+
+.naam{
+    font-size: 18px !important;
+}
+
+
+
+
+
+
+.gaga{
+    text-decoration: none !important;
+}
+
+.icoon{
+    background:transparent !important;
+    border-radius: 10px !important;
+    /* border: none; */
+    /* margin-right: 10px; */
+}
+.pepicon{
+    margin-left: 5px;
+}
+
+
+.foot{
+    /* background-image:linear-gradient(#00B4DB,#0083B0); */
+    color: white;
+    /* background-image: url("luke-chesser-CxBx_J3yp9g-unsplash.jpg"); */
+    background-color: black;
+    /* background-image: url("luke-chesser-CxBx_J3yp9g-unsplash.jpg"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+
+}
+
+.llfoot{
+    /* background-image:linear-gradient(#00B4DB,#0083B0); */
+    color: whitesmoke !important;
+    
+}
+
+
+
+
+.lfoot{
+    /* background-color: black; */
+    margin-top: -100px;
+    /* color: black; */
+}
+
+
+
+.youtubebanner{
+    background-image: url("youtube banner.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white !important;
+    width: 100%;
+    /* display: flex; */
+
+}
+.notebookbanner{
+    background-image: url("books001.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.cbanner{
+    background-image: url("cbanner.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    color: white !important;
+}
+
+.techword{
+    text-align: center;
+    font-size: 50px !important;
+    color: white !important;
+}
+.notebookbanner h2{
+    color: black !important;
+}
+#adda{
+    color: black !important;
+}
+#adda1{
+    color: white;
+}
+
+button{
+    color:white !important;
+}
+
+.namo{
+    color: white !important;
+    /* border: 1px solid grey !important; */
+    /* border-radius: 40px; */
+}
+
+.namo:hover{
+    background-color: lightblue !important;
+    color: black !important;
+    border-radius: 30px;
+}
+
+
+#hariya{
+    color: whitesmoke !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* mediaquarey******************************************************************************* */
+
+
+  
+  /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+  /* @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  } */
+
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+
+@media only screen and (min-width: 500px) {
+    .uu{
+   
+       font-size: 28px;
+       margin-top: 80px;
+   
+   }
+   .vv{
+   
+       font-size: 19px;
+       /* margin-top: 40px; */
+   
+   }
+}
+ /* Extra small devices (phones, 600px and down) */
+ @media only screen and (max-width: 600px) {
+     .uu{
+    
+        font-size: 11px;
+        margin-top: 40px;
+    
+    }
+    .vv{
+    
+        font-size: 9px;
+        /* margin-top: 40px; */
+    
+    }
+ }
+
+ 
+ 
+ /* Medium devices (landscape tablets, 768px and up) */
+ @media only screen and (min-width: 768px) {
+     .uu{
+    
+        font-size: 35px;
+        margin-top: 40px;
+    
+    }
+    .vv{
+    
+        font-size: 24px;
+        /* margin-top: 40px; */
+    
+    }
+ }
+ 
+ /* Large devices (laptops/desktops, 992px and up) */
+ @media only screen and (min-width: 992px) {
+     .uu{
+    
+        font-size: 45px;
+        margin-top: 60px;
+    
+    }
+    .vv{
+    
+        font-size: 28px;
+        /* margin-top: 40px; */
+    
+    }
+ }
+ 
+ /* Extra large devices (large laptops and desktops, 1200px and up) */
+ @media only screen and (min-width: 1200px) {
+     .uu{
+    
+        font-size: 55px;
+        /* margin-top: 30px; */
+    
+    }
+    .vv{
+    
+        font-size: 35px;
+        margin-top: 30px;
+    
+    }
+ } 
+
+
+
